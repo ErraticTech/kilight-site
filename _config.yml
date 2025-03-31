@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   KiLight Open Hardware Light Controller Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: kilight.com # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ErraticTech
+github_username: PMLavigne
 
 # Build settings
 theme: jekyll-theme-midnight
